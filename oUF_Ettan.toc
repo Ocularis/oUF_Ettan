@@ -1,0 +1,17 @@
+## Interface: 30000
+## Author: Ocularis
+## Title: oUF_Kem
+## Version: 1.0.0
+## OptionalDeps: oUF_PowerSpark, oUF_DebuffHighlight, oUF_Banzai, oUF_BarFader
+## RequiredDeps: oUF
+
+settings.lua
+
+libs\LibHealComm-3.0\LibStub\LibStub.lua
+libs\LibHealComm-3.0\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibHealComm-3.0\LibHealComm-3.0.lua
+
+template.xml
+layout.lua
+oUF_HealComm.lua
+raid.lua
